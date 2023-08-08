@@ -1,0 +1,1 @@
+- Esta carpeta contiene los archivos publicos que cualquiera persona que conozca las url pude ver o obtner
